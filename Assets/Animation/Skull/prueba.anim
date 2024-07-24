@@ -1,0 +1,4257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: prueba
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 6.873, y: -13.794, z: 88.72}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 41.15, y: 0, z: 0}
+        outSlope: {x: 41.15, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 32.034748, y: 0, z: 0}
+        outSlope: {x: 32.034748, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 25.800001, y: 0, z: 0}
+        outSlope: {x: 25.800001, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -63.78, y: 0, z: 0}
+        outSlope: {x: -63.78, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -32.9745, y: 0, z: 0}
+        outSlope: {x: -32.9745, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -53.273247, y: 0, z: 0}
+        outSlope: {x: -53.273247, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 3.966, y: 0, z: 0}
+        outSlope: {x: 3.966, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 2.244, y: 0, z: 0}
+        outSlope: {x: 2.244, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.58, y: 0, z: 0}
+        outSlope: {x: -2.58, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 13.151}
+        inSlope: {x: 0.74208003, y: 0, z: 0}
+        outSlope: {x: 0.74208003, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 2.9716363, y: 0, z: 0}
+        outSlope: {x: 2.9716363, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 1.5156001, y: 0, z: 0}
+        outSlope: {x: 1.5156001, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -8.796}
+        inSlope: {x: 1.5334426, y: 0, z: 0}
+        outSlope: {x: 1.5334426, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 29.76}
+        inSlope: {x: -1.889109, y: 0, z: 0}
+        outSlope: {x: -1.889109, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.01, y: 0.70319986, z: -0.12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.1905476e-17, y: 0.78877, z: 0.010504334}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000007774384, y: 0.58183366, z: 0.099005654}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.7182e-15, y: 0.7104244, z: -0.02089484}
+        inSlope: {x: -0.0000022947788, y: 0, z: 0}
+        outSlope: {x: -0.0000022947788, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.10552317, y: -0.687589, z: -0.47323114}
+        inSlope: {x: -0.0000028163195, y: 0, z: 0}
+        outSlope: {x: -0.0000028163195, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.05292057, y: -0.30819884, z: 0.38202533}
+        inSlope: {x: -0.008190427, y: 0, z: 0}
+        outSlope: {x: -0.008190427, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -5.1275957e-31, y: -0.19235873, z: -0.5799258}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 4.788294e-15, y: -0.12992397, z: -0.7591249}
+        inSlope: {x: 0.000011250377, y: 0, z: 0}
+        outSlope: {x: 0.000011250377, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -7.854782e-15, y: 0.22264415, z: 0.46181002}
+        inSlope: {x: 0.000002168119, y: 0, z: 0}
+        outSlope: {x: 0.000002168119, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.07792629, y: -0.30831036, z: -0.40559113}
+        inSlope: {x: 0.000002766028, y: 0, z: 0}
+        outSlope: {x: 0.000002766028, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.69235873, y: -0.109741144, z: 0.030713018}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7242985, y: -0.16890015, z: -4.4065275e-32}
+        inSlope: {x: 0.000010728836, y: 0, z: 0}
+        outSlope: {x: 0.000010728836, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5140933, y: -0.4125973, z: -0.026744638}
+        inSlope: {x: 0.0000008046627, y: 0, z: 0}
+        outSlope: {x: 0.0000008046627, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.73214346, y: -0.07450283, z: 0.030713018}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5602356, y: -0.2436644, z: 0}
+        inSlope: {x: -0.0000060796738, y: 0, z: 0}
+        outSlope: {x: -0.0000060796738, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.55883205, y: -0.07043967, z: 0.026084522}
+        inSlope: {x: -0.0000023460389, y: 0, z: 0}
+        outSlope: {x: -0.0000023460389, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.31244284, y: 0.39891315, z: 0}
+        inSlope: {x: 0.063307926, y: 0, z: 0}
+        outSlope: {x: 0.063307926, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.49360603, y: 0.37500417, z: 3.381622e-17}
+        inSlope: {x: 0.0000018369068, y: 0, z: 0}
+        outSlope: {x: 0.0000018369068, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5675408, y: -0.40284258, z: 7.9476764e-17}
+        inSlope: {x: 0.0000010013581, y: 0, z: 0}
+        outSlope: {x: 0.0000010013581, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.34413728, y: -0.38235253, z: 0.050328385}
+        inSlope: {x: -0.00000082078526, y: 0, z: 0}
+        outSlope: {x: -0.00000082078526, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.38217065, y: 0.23223804, z: 0.026660066}
+        inSlope: {x: 0.00000008852175, y: 0, z: 0}
+        outSlope: {x: 0.00000008852175, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1700656367
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3243687356
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1655165270
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1058981823
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 984518303
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2753300429
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 4005412260
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1193883080
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1566850609
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3990061910
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 911128322
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3648691022
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1700656367
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3243687356
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1655165270
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1058981823
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 984518303
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2753300429
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 4005412260
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1395319063
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1193883080
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1566850609
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 911128322
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3648691022
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3467282360
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 245138680
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1837266973
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1825021635
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1235565699
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1170768283
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3557334355
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1395319063
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3174678090
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3467282360
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 245138680
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1235565699
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3246559073
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1170768283
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3557334355
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3174678090
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.70319986
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.1905476e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.78877
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.010504334
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0000007774384
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.58183366
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.099005654
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 6.873
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -13.794
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 88.72
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.7182e-15
+        inSlope: -0.0000022947788
+        outSlope: -0.0000022947788
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7104244
+        inSlope: -1.104849
+        outSlope: -1.104849
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.02089484
+        inSlope: -0.000006467104
+        outSlope: -0.000006467104
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 41.15
+        outSlope: 41.15
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.416
+        outSlope: 0.416
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.294
+        outSlope: 2.294
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.10552317
+        inSlope: -0.0000028163195
+        outSlope: -0.0000028163195
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.687589
+        inSlope: 0.00000013411045
+        outSlope: 0.00000013411045
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.47323114
+        inSlope: 0.00000067055225
+        outSlope: 0.00000067055225
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 32.034748
+        outSlope: 32.034748
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.82799995
+        outSlope: 0.82799995
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.11575
+        outSlope: 2.11575
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.05292057
+        inSlope: -0.008190427
+        outSlope: -0.008190427
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.30819884
+        inSlope: 0.30989912
+        outSlope: 0.30989912
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.38202533
+        inSlope: 0.15523098
+        outSlope: 0.15523098
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 25.800001
+        outSlope: 25.800001
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.486
+        outSlope: 0.486
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.56975
+        outSlope: 1.56975
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -5.1275957e-31
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.19235873
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5799258
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.788294e-15
+        inSlope: 0.000011250377
+        outSlope: 0.000011250377
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.12992397
+        inSlope: -0.00000023841858
+        outSlope: -0.00000023841858
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.7591249
+        inSlope: -0.0000023841858
+        outSlope: -0.0000023841858
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -63.78
+        outSlope: -63.78
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.086
+        outSlope: 1.086
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -3.802
+        outSlope: -3.802
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.854782e-15
+        inSlope: 0.000002168119
+        outSlope: 0.000002168119
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.22264415
+        inSlope: 0.00000011175871
+        outSlope: 0.00000011175871
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.46181002
+        inSlope: -0.00000087171793
+        outSlope: -0.00000087171793
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -32.9745
+        outSlope: -32.9745
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.01725
+        outSlope: 0.01725
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0.74925
+        outSlope: -0.74925
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07792629
+        inSlope: 0.000002766028
+        outSlope: 0.000002766028
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.30831036
+        inSlope: 0.0000022351742
+        outSlope: 0.0000022351742
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.40559113
+        inSlope: -0.0000007599592
+        outSlope: -0.0000007599592
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -53.273247
+        outSlope: -53.273247
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.88199997
+        outSlope: 0.88199997
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1.9424999
+        outSlope: -1.9424999
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.69235873
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.109741144
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.030713018
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7242985
+        inSlope: 0.000010728836
+        outSlope: 0.000010728836
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.16890015
+        inSlope: 0.00000008940697
+        outSlope: 0.00000008940697
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.4065275e-32
+        inSlope: -0.0000036805868
+        outSlope: -0.0000036805868
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 3.966
+        outSlope: 3.966
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1.462
+        outSlope: -1.462
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -80.99
+        outSlope: -80.99
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5140933
+        inSlope: 0.0000008046627
+        outSlope: 0.0000008046627
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.4125973
+        inSlope: 0.0000005811453
+        outSlope: 0.0000005811453
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.026744638
+        inSlope: -0.0000014416873
+        outSlope: -0.0000014416873
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.244
+        outSlope: 2.244
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1.8292499
+        outSlope: -1.8292499
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -58.80975
+        outSlope: -58.80975
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.73214346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07450283
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.030713018
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5602356
+        inSlope: -0.0000060796738
+        outSlope: -0.0000060796738
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.2436644
+        inSlope: -0.000000029802322
+        outSlope: -0.000000029802322
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0.0000056922436
+        outSlope: -0.0000056922436
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -2.58
+        outSlope: -2.58
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0.57
+        outSlope: -0.57
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 49.932
+        outSlope: 49.932
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.55883205
+        inSlope: -0.0000023460389
+        outSlope: -0.0000023460389
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07043967
+        inSlope: 0.0000010943413
+        outSlope: 0.0000010943413
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.026084522
+        inSlope: 0.0000005874038
+        outSlope: 0.0000005874038
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.74208003
+        outSlope: 0.74208003
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0.2016
+        outSlope: -0.2016
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 13.151
+        inSlope: -14.5848
+        outSlope: -14.5848
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.31244284
+        inSlope: 0.063307926
+        outSlope: 0.063307926
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.39891315
+        inSlope: 0.06270528
+        outSlope: 0.06270528
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.0044444446
+        outSlope: 0.0044444446
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.49360603
+        inSlope: 0.0000018369068
+        outSlope: 0.0000018369068
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.37500417
+        inSlope: -0.0000015768137
+        outSlope: -0.0000015768137
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 3.381622e-17
+        inSlope: 0.000001551414
+        outSlope: 0.000001551414
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.9716363
+        outSlope: 2.9716363
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -3.9507272
+        outSlope: -3.9507272
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 18.837273
+        outSlope: 18.837273
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5675408
+        inSlope: 0.0000010013581
+        outSlope: 0.0000010013581
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.40284258
+        inSlope: -0.0000016450882
+        outSlope: -0.0000016450882
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 7.9476764e-17
+        inSlope: -0.00000403896
+        outSlope: -0.00000403896
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.5156001
+        outSlope: 1.5156001
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 3.558
+        outSlope: 3.558
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 50.958
+        outSlope: 50.958
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.34413728
+        inSlope: -0.00000082078526
+        outSlope: -0.00000082078526
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.38235253
+        inSlope: -0.0000007914715
+        outSlope: -0.0000007914715
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.050328385
+        inSlope: -0.00000015756146
+        outSlope: -0.00000015756146
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.5334426
+        outSlope: 1.5334426
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.0308197
+        outSlope: 1.0308197
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -8.796
+        inSlope: 22.157705
+        outSlope: 22.157705
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.38217065
+        inSlope: 0.00000008852175
+        outSlope: 0.00000008852175
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.23223804
+        inSlope: 0.00000069932184
+        outSlope: 0.00000069932184
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.026660066
+        inSlope: 0.0000021267351
+        outSlope: 0.0000021267351
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1.889109
+        outSlope: -1.889109
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -3.800792
+        outSlope: -3.800792
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 29.76
+        inSlope: -16.030693
+        outSlope: -16.030693
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  m_EulerEditorCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Spine_jnt_02/Spine_jnt_03/Spine_jnt_04/Neck_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_B_jnt_01/Tentacle_B_jnt_02/Tentacle_B_jnt_03/Tentacle_B_jnt_04/Tentacle_B_jnt_05/Tentacle_B_jnt_06/Tentacle_B_jnt_07/Tentacle_B_jnt_08/Tentacle_B_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_F_jnt_01/Tentacle_F_jnt_02/Tentacle_F_jnt_03/Tentacle_F_jnt_04/Tentacle_F_jnt_05/Tentacle_F_jnt_06/Tentacle_F_jnt_07/Tentacle_F_jnt_08/Tentacle_F_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_L_jnt_01/Tentacle_L_jnt_02/Tentacle_L_jnt_03/Tentacle_L_jnt_04/Tentacle_L_jnt_05/Tentacle_L_jnt_06/Tentacle_L_jnt_07/Tentacle_L_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Skull_Global_Scale/Skull_Joints/Root_jnt_01/Tentacle_R_jnt_01/Tentacle_R_jnt_02/Tentacle_R_jnt_03/Tentacle_R_jnt_04/Tentacle_R_jnt_05/Tentacle_R_jnt_06/Tentacle_R_jnt_07/Tentacle_R_jnt_08/Tentacle_R_jnt_09/Tentacle_R_jnt_10
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

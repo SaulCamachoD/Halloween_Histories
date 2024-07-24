@@ -14921,6 +14921,18 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.12
       objectReference: {fileID: 0}
+    - target: {fileID: -2171307748224026625, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: -2171307748224026625, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.73
+      objectReference: {fileID: 0}
+    - target: {fileID: -2171307748224026625, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.19
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
       propertyPath: m_Name
       value: Skull_Completed
@@ -14929,6 +14941,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7f8a68bae0b4968409ff5ab29a3c60aa, type: 2}
+    - target: {fileID: 6987171595885578551, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.2436644
+      objectReference: {fileID: 0}
     - target: {fileID: 8080910639652738228, guid: 6d49c40083757634d83f5ea10a63092d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7182e-15
