@@ -30,5 +30,9 @@ public class MoveSkull : MonoBehaviour
         {
             anim.SetTrigger("Attack");
         }
+       if (Input.GetKeyDown(KeyCode.Space))
+       {
+                    anim.SetTrigger("Attack_T");
+       }
     }
 }
