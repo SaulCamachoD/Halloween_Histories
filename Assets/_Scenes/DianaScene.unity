@@ -550,6 +550,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 21454716}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 21454718}
   m_SourcePrefab: {fileID: 100100000, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
 --- !u!1 &21454715 stripped
 GameObject:
@@ -583,6 +586,27 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
   m_PrefabInstance: {fileID: 21454714}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &21454718
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21454715}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b8245dd3bfb53c94e8cf6e2fae4b380d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &25998004
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5803,6 +5827,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 618425429}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 618425431}
   m_SourcePrefab: {fileID: 100100000, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
 --- !u!1 &618425428 stripped
 GameObject:
@@ -5836,6 +5863,27 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
   m_PrefabInstance: {fileID: 618425427}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &618425431
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 618425428}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a6540b26c4eab7d4b84a079d093414c3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &625423776
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9978,6 +10026,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1043570779}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1043570781}
   m_SourcePrefab: {fileID: 100100000, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
 --- !u!1 &1043570778 stripped
 GameObject:
@@ -10011,6 +10062,27 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
   m_PrefabInstance: {fileID: 1043570777}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1043570781
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1043570778}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cf3719b6bfb770041aff7d0bb783eb42, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1062358378
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12619,6 +12691,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1390378068}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1390378070}
   m_SourcePrefab: {fileID: 100100000, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
 --- !u!1 &1390378067 stripped
 GameObject:
@@ -12652,6 +12727,27 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 2168c86f42589eb47a8e0b38f490672c, type: 3}
   m_PrefabInstance: {fileID: 1390378066}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1390378070
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390378067}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cf391a30c277bc64f82b00ade5833484, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1394720212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16255,7 +16351,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2056545215}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.06578172, y: 0.00000001671541, z: -0.0000000040809853, w: 0.9978341}
+  m_LocalRotation: {x: 0.065781735, y: -0.000000016715418, z: 0.0000000040809884, w: 0.9978341}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
