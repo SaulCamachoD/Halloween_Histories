@@ -11665,7 +11665,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1201167580}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.029492045, y: 0.000000004213157, z: -8.6777685e-10, w: 0.99956506}
+  m_LocalRotation: {x: 0.029492045, y: -0.000000004213157, z: 8.6777685e-10, w: 0.99956506}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -20969,10 +20969,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4632051629793104254, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
-      propertyPath: EmissionModule.rateOverTime.scalar
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 5986509223245093455, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 205.9883
@@ -21016,6 +21012,10 @@ PrefabInstance:
     - target: {fileID: 6268948150597493845, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
       propertyPath: m_Name
       value: Fire
+      objectReference: {fileID: 0}
+    - target: {fileID: 6268948150597493845, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21569,7 +21569,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2056545215}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.065781735, y: -0.000000016715418, z: 0.0000000040809884, w: 0.9978341}
+  m_LocalRotation: {x: 0.06578172, y: 0.00000001671541, z: -0.0000000040809853, w: 0.9978341}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -22477,6 +22477,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1390378069}
     m_Modifications:
+    - target: {fileID: 2375124815848222623, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2375124815848222623, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 2375124815848222623, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5986509223245093455, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -22520,6 +22532,14 @@ PrefabInstance:
     - target: {fileID: 6268948150597493845, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
       propertyPath: m_Name
       value: Fire
+      objectReference: {fileID: 0}
+    - target: {fileID: 8430803901113861893, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 8430803901113861893, guid: 964a8fcdc577d7b449e62fe38c9aaefa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.96
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
