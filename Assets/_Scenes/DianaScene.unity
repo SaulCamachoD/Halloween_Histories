@@ -4416,6 +4416,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 9bcd1eef449eddc4f8cc0796b4782c7e, type: 3}
   m_PrefabInstance: {fileID: 367470362}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &380286678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 380286680}
+  - component: {fileID: 380286679}
+  m_Layer: 0
+  m_Name: Posprocesado Malo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &380286679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380286678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: a5bdfbd869587824b98733deaaa03027, type: 2}
+--- !u!4 &380286680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380286678}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 108.003746, y: -54.502678, z: -76.482445}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &423836271
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16825,7 +16874,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1201167580}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.029492045, y: -0.000000004213157, z: 8.6777685e-10, w: 0.99956506}
+  m_LocalRotation: {x: 0.029492045, y: 0.000000004213157, z: -8.6777685e-10, w: 0.99956506}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -25076,12 +25125,12 @@ GameObject:
   - component: {fileID: 1901524713}
   - component: {fileID: 1901524712}
   m_Layer: 0
-  m_Name: Posprocesado
+  m_Name: Posprocesado bueno
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1901524712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27654,4 +27703,5 @@ SceneRoots:
   - {fileID: 1304560358}
   - {fileID: 1638601097}
   - {fileID: 1901524713}
+  - {fileID: 380286680}
   - {fileID: 1163833883}
