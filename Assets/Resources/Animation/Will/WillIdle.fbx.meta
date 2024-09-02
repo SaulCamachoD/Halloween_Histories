@@ -24,7 +24,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -111,7 +111,552 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton: []
+    skeleton:
+    - name: WillIdle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Main_01
+      parentName: WillIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Global_Control_01
+      parentName: Will_Main_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Geometry_01
+      parentName: Will_Global_Control_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Geometry
+      parentName: Will_Geometry_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Global_Scale_01
+      parentName: Will_Global_Control_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Controls_01
+      parentName: Will_Global_Scale_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Foot_Ctrl
+      parentName: Will_Controls_01
+      position: {x: -0.31553283, y: -0.031888545, z: 0.02879815}
+      rotation: {x: -0.012783148, y: -0.05923197, z: -0.016506433, w: 0.99802595}
+      scale: {x: 0.68570584, y: 0.68570584, z: 0.68570584}
+    - name: Will_L_Knee_Ctrl
+      parentName: Will_Controls_01
+      position: {x: -0.35046065, y: 1.3649604, z: 0.660555}
+      rotation: {x: 0.70346576, y: -0.0019019288, z: 0.0050591626, w: 0.7107087}
+      scale: {x: 0.20707671, y: 0.20707671, z: 0.20707671}
+    - name: Will_R_Foot_Ctrl
+      parentName: Will_Controls_01
+      position: {x: 0.4377239, y: -0.018565012, z: 0.0020309829}
+      rotation: {x: 0.0038241555, y: 0.119923584, z: 0.012119958, w: 0.99270177}
+      scale: {x: 0.68570584, y: 0.68570584, z: 0.66255015}
+    - name: Will_R_Knee_Ctrl
+      parentName: Will_Controls_01
+      position: {x: 0.28371826, y: 1.3663678, z: 0.6489376}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 0.20707671, y: 0.20707671, z: 0.20707671}
+    - name: Will_Hips_Ctrl
+      parentName: Will_Controls_01
+      position: {x: -0.0650523, y: 2.3370821, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Rib_Ctrl_01
+      parentName: Will_Hips_Ctrl
+      position: {x: -2.5461855e-11, y: 0.32092047, z: 0.10460284}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Rib_Ctrl_02
+      parentName: Will_Rib_Ctrl_01
+      position: {x: -0, y: 0.4721241, z: -0.069387004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Rib_Ctrl_03
+      parentName: Will_Rib_Ctrl_02
+      position: {x: -8.326673e-17, y: 0.4132483, z: 0.018604442}
+      rotation: {x: 0.11134061, y: -0.010215389, z: -0.012174809, w: 0.99365526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Shouder_L_Ctrl_01
+      parentName: Will_Controls_01
+      position: {x: -0.45077115, y: 3.5683744, z: -0.04082649}
+      rotation: {x: 0.06204656, y: 0.08416263, z: 0.42526835, w: 0.8990071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Elbow_L_Ctrl_02
+      parentName: Will_Shouder_L_Ctrl_01
+      position: {x: -0.6146435, y: -0.30705523, z: -0.12386656}
+      rotation: {x: 0.10368021, y: 0.2106253, z: 0.06254755, w: 0.9700388}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Wrist_L_Ctrl_03
+      parentName: Will_Elbow_L_Ctrl_02
+      position: {x: -0.5697267, y: -0.11770868, z: 0.0021952987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Shouder_R_Ctrl_01
+      parentName: Will_Controls_01
+      position: {x: 0.34550998, y: 3.5683744, z: -0.04082649}
+      rotation: {x: -0.075495906, y: 0.07638656, z: -0.37923503, w: 0.9190464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Elbow_R_Ctrl_02
+      parentName: Will_Shouder_R_Ctrl_01
+      position: {x: 0.6743818, y: -0.283859, z: -0.123866476}
+      rotation: {x: 0.11687089, y: -0.15525098, z: -0.06763404, w: 0.97860307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Wrist_R_Ctrl_03
+      parentName: Will_Elbow_R_Ctrl_02
+      position: {x: 0.5527885, y: -0.17520475, z: 0.0021954626}
+      rotation: {x: 0, y: -0.16557628, z: -0, w: 0.986197}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Head_Ctrl_01
+      parentName: Will_Controls_01
+      position: {x: -0.0565613, y: 4.0168657, z: -0.037358444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Neck_Ctrl_01
+      parentName: Will_Controls_01
+      position: {x: -0.0565613, y: 3.7947335, z: -0.014414359}
+      rotation: {x: 0, y: 0, z: 0.04846521, w: 0.9988249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Joints_01
+      parentName: Will_Global_Scale_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle1
+      parentName: Will_Joints_01
+      position: {x: -0.30332673, y: 0.32199234, z: 0.020453298}
+      rotation: {x: -0.01278315, y: -0.05923197, z: -0.016506433, w: 0.99802595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle2
+      parentName: Will_Joints_01
+      position: {x: -0.35365513, y: 0.11442497, z: 0.35782883}
+      rotation: {x: 0.18950245, y: 0.6322507, z: 0.19297163, w: 0.7260233}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle3
+      parentName: Will_Joints_01
+      position: {x: -0.49061173, y: 0.15981302, z: 0.78917885}
+      rotation: {x: -0.019108815, y: 0.5891941, z: -0.04791467, w: 0.80634326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle4
+      parentName: Will_Joints_01
+      position: {x: 0.429457, y: 0.3384859, z: 0.0057810303}
+      rotation: {x: 0.005468415, y: -0.0189393, z: 0.011472314, w: 0.9997399}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle5
+      parentName: Will_Joints_01
+      position: {x: 0.39266, y: 0.10469188, z: 0.327379}
+      rotation: {x: 0.18043426, y: 0.6183398, z: 0.2514011, w: 0.7224244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle6
+      parentName: Will_Joints_01
+      position: {x: 0.4056029, y: 0.11621811, z: 0.78188956}
+      rotation: {x: -0.018118843, y: 0.57218784, z: 0.008913465, w: 0.819874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Root_Jnt_01
+      parentName: Will_Joints_01
+      position: {x: -0.06505229, y: 2.3370821, z: 0.029402057}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Spine_Jnt_02
+      parentName: Will_Root_Jnt_01
+      position: {x: -0, y: 0.32092053, z: 0.07520079}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Spine_Jnt_03
+      parentName: Will_Spine_Jnt_02
+      position: {x: 2.7755576e-17, y: 0.4721241, z: -0.06938701}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Spine_Jnt_04
+      parentName: Will_Spine_Jnt_03
+      position: {x: -0.0000000016219022, y: 0.41324824, z: 0.01860442}
+      rotation: {x: -0.012987392, y: -0, z: -0, w: 0.99991566}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Will_Neck_Jnt_01
+      parentName: Will_Spine_Jnt_04
+      position: {x: 1.4540463e-18, y: 0.18862976, z: -0.011133127}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_Head_Jnt_01
+      parentName: Will_Neck_Jnt_01
+      position: {x: -4.5487218e-17, y: 0.22265342, z: -0.017166989}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Will_Head_Jnt_02
+      parentName: Will_Head_Jnt_01
+      position: {x: -1.8018057e-16, y: 0.309109, z: 0.13764586}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_Head_Jnt_03
+      parentName: Will_Head_Jnt_02
+      position: {x: 0.032906193, y: 1.4607801, z: 0.031438354}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_Jaw_Jnt_01
+      parentName: Will_Head_Jnt_02
+      position: {x: -2.7755576e-16, y: -0.2593232, z: 0.47454605}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Will_R_Eye_Jnt_01
+      parentName: Will_Head_Jnt_02
+      position: {x: -0.31831583, y: 0.3710063, z: 0.3683853}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Will_R_Eye_Jnt_02
+      parentName: Will_Head_Jnt_02
+      position: {x: 0.32020435, y: 0.3710063, z: 0.3683853}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Will_L_Clavicle_Jnt_01
+      parentName: Will_Spine_Jnt_04
+      position: {x: -0.15026572, y: -0.09197396, z: 0.003512936}
+      rotation: {x: 0.0018285867, y: 0.027915789, z: 0.02321601, w: 0.999339}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Shouder_Jnt_01
+      parentName: Will_L_Clavicle_Jnt_01
+      position: {x: -0.24394412, y: 0.055007007, z: -0.046928417}
+      rotation: {x: -0.010487445, y: 0.09587787, z: -0.16992272, w: 0.9807261}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Will_L_Elbow_Jnt_01
+      parentName: Will_L_Shouder_Jnt_01
+      position: {x: -0.6146435, y: -0.30373436, z: -0.13179979}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Will_L_Elbow_Jnt_02
+      parentName: Will_L_Elbow_Jnt_01
+      position: {x: -0.1578462, y: -0.014349654, z: -3.443584e-17}
+      rotation: {x: 0.0070735253, y: -0.022186955, z: 0.004627136, w: 0.9997182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Forearm_Jnt_01
+      parentName: Will_L_Elbow_Jnt_02
+      position: {x: -0.41188052, y: -0.10337657, z: -0.00086265046}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Wrist_Jnt_01
+      parentName: Will_L_Forearm_Jnt_01
+      position: {x: -0.13573366, y: -0.0712109, z: 0.00086265046}
+      rotation: {x: -0.0015120968, y: 0.0047428673, z: 0.11514272, w: 0.99333656}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_L_Handcup_Jnt_01
+      parentName: Will_L_Wrist_Jnt_01
+      position: {x: -0.16178863, y: -0.021264037, z: -0.008977376}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: Will_L_Thump_Jnt_01
+      parentName: Will_L_Handcup_Jnt_01
+      position: {x: 0.057723396, y: 0.09777285, z: 0.1768902}
+      rotation: {x: -0.11402115, y: -0.031500448, z: -0.08889925, w: 0.9889914}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Will_L_Thump_Jnt_02
+      parentName: Will_L_Thump_Jnt_01
+      position: {x: -0.095159195, y: -0.06433247, z: 0.1448456}
+      rotation: {x: -0.07466352, y: 0.3310576, z: 0.09798615, w: 0.93553466}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Will_L_Thump_Jnt_03
+      parentName: Will_L_Thump_Jnt_02
+      position: {x: -0.122104354, y: -0.034198012, z: 0.022500902}
+      rotation: {x: 0.0071733394, y: -0.019374626, z: 0.0094805965, w: 0.9997417}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: Will_L_Thump_Jnt_04
+      parentName: Will_L_Thump_Jnt_03
+      position: {x: -0.17423882, y: -0.038472764, z: 0.053212162}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Index_Jnt_01
+      parentName: Will_L_Handcup_Jnt_01
+      position: {x: -0.07564917, y: 0.09777285, z: 0.15990089}
+      rotation: {x: -0.015386203, y: -0.0051179063, z: -0.14578012, w: 0.98918414}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_L_Index_Jnt_02
+      parentName: Will_L_Index_Jnt_01
+      position: {x: -0.1239321, y: -0.047632925, z: 0.014752519}
+      rotation: {x: -0.022132972, y: 0.0557147, z: -0.0060419464, w: 0.9981831}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: Will_L_Index_Jnt_03
+      parentName: Will_L_Index_Jnt_02
+      position: {x: -0.14956641, y: -0.060930807, z: -0.013967862}
+      rotation: {x: 0.019571448, y: -0.051822815, z: 0.016493546, w: 0.99832827}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: Will_L_Index_Jnt_04
+      parentName: Will_L_Index_Jnt_03
+      position: {x: -0.15191966, y: -0.05229925, z: 0.015945425}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Middle_Jnt_01
+      parentName: Will_L_Handcup_Jnt_01
+      position: {x: -0.110258356, y: 0.043601125, z: 0.03690616}
+      rotation: {x: -0.011350888, y: 0.043438796, z: -0.14530762, w: 0.9883674}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_L_Middle_Jnt_02
+      parentName: Will_L_Middle_Jnt_01
+      position: {x: -0.15798181, y: -0.058689702, z: -0.0052040243}
+      rotation: {x: 0.0034238256, y: -0.010730826, z: 0.017080208, w: 0.99979067}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: Will_L_Middle_Jnt_03
+      parentName: Will_L_Middle_Jnt_02
+      position: {x: -0.10554295, y: -0.027369738, z: 0.0039613885}
+      rotation: {x: -0.005972138, y: 0.009979054, z: -0.090169065, w: 0.99585855}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: Will_L_Middle_Jnt_014
+      parentName: Will_L_Middle_Jnt_03
+      position: {x: -0.16167732, y: -0.09005757, z: 0.00074152416}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Ring_Jnt_01
+      parentName: Will_L_Handcup_Jnt_01
+      position: {x: -0.07597185, y: -0.05600866, z: -0.07811095}
+      rotation: {x: -0.00073645246, y: 0.0041510896, z: -0.010493545, w: 0.9999361}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_L_Ring_Jnt_02
+      parentName: Will_L_Ring_Jnt_01
+      position: {x: -0.16258524, y: -0.015195998, z: 0.0053989743}
+      rotation: {x: -0.0050896415, y: 0.000049218983, z: -0.1531301, w: 0.9881929}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: Will_L_Ring_Jnt_03
+      parentName: Will_L_Ring_Jnt_02
+      position: {x: -0.11977226, y: -0.060729973, z: 0.0039613885}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Will_L_Ring_Jnt_04
+      parentName: Will_L_Ring_Jnt_03
+      position: {x: -0.12641366, y: -0.06245802, z: 0.013020935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_L_Little_Jnt_01
+      parentName: Will_L_Handcup_Jnt_01
+      position: {x: -0.040960386, y: -0.09089906, z: -0.1789019}
+      rotation: {x: -0.0028637704, y: 0.061395507, z: -0.07699814, w: 0.995135}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_L_Little_Jnt_02
+      parentName: Will_L_Little_Jnt_01
+      position: {x: -0.13281962, y: -0.026370615, z: -0.016086945}
+      rotation: {x: 0.005965433, y: -0.04005074, z: 0.016400477, w: 0.9990453}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: Will_L_Little_Jnt_03
+      parentName: Will_L_Little_Jnt_02
+      position: {x: -0.1093486, y: -0.014664959, z: 0.0039613885}
+      rotation: {x: -0.0014227653, y: -0.023124913, z: -0.124881074, w: 0.9919012}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: Will_L_Little_Jnt_04
+      parentName: Will_L_Little_Jnt_03
+      position: {x: -0.1277222, y: -0.06245802, z: 0.013020935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_R_Clavicle_Jnt_01
+      parentName: Will_Spine_Jnt_04
+      position: {x: 0.150266, y: -0.09197646, z: 0.003512936}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_R_Shouder_Jnt_01
+      parentName: Will_R_Clavicle_Jnt_01
+      position: {x: 0.243944, y: 0.05501, z: -0.0469284}
+      rotation: {x: 0.020085601, y: -0.011874638, z: 0.15899159, w: 0.98700416}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999999}
+    - name: Will_R_Elbow_Jnt_01
+      parentName: Will_R_Shouder_Jnt_01
+      position: {x: 0.682243, y: -0.28054652, z: -0.13119726}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Will_R_Elbow_Jnt_02
+      parentName: Will_R_Elbow_Jnt_01
+      position: {x: 0.1729937, y: -0.037533477, z: -0.0006023381}
+      rotation: {x: 0.012401565, y: 0.033020366, z: 0.017674193, w: 0.99922144}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_R_Forearm_Jnt_01
+      parentName: Will_R_Elbow_Jnt_02
+      position: {x: 0.3797949, y: -0.13766927, z: -0.0017534626}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_R_Wrist_Jnt_01
+      parentName: Will_R_Forearm_Jnt_01
+      position: {x: 0.08506841, y: -0.03692073, z: 0.0017534626}
+      rotation: {x: -0.0038417284, y: -0.010228998, z: -0.13915287, w: 0.9902106}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Will_R_Handcup_Jnt_01
+      parentName: Will_R_Wrist_Jnt_01
+      position: {x: 0.16179, y: -0.02127, z: -0.008978}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Will_R_Thump_Jnt_01
+      parentName: Will_R_Handcup_Jnt_01
+      position: {x: -0.05772, y: 0.09778, z: 0.1768906}
+      rotation: {x: -0.12293807, y: 0.032185487, z: 0.09506427, w: 0.98732626}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_R_Thump_Jnt_02
+      parentName: Will_R_Thump_Jnt_01
+      position: {x: 0.09516, y: -0.06434, z: 0.1448454}
+      rotation: {x: -0.074638255, y: -0.3310547, z: -0.098018125, w: 0.9355343}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_R_Thump_Jnt_03
+      parentName: Will_R_Thump_Jnt_02
+      position: {x: 0.1221, y: -0.03419, z: 0.022501}
+      rotation: {x: 0.007163393, y: 0.019358283, z: -0.009457345, w: 0.9997422}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Will_R_Thump_Jnt_04
+      parentName: Will_R_Thump_Jnt_03
+      position: {x: 0.17424, y: -0.03848, z: 0.053212}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_R_Index_Jnt_01
+      parentName: Will_R_Handcup_Jnt_01
+      position: {x: 0.07565, y: 0.09778, z: 0.1599013}
+      rotation: {x: -0.015389736, y: 0.005118895, z: 0.1458135, w: 0.98917913}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_R_Index_Jnt_02
+      parentName: Will_R_Index_Jnt_01
+      position: {x: 0.12393, y: -0.04764, z: 0.0147525}
+      rotation: {x: -0.022132767, y: -0.05571139, z: 0.006020388, w: 0.9981834}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Will_R_Index_Jnt_03
+      parentName: Will_R_Index_Jnt_02
+      position: {x: 0.14957, y: -0.06093, z: -0.0139678}
+      rotation: {x: 0.01957042, y: 0.051821005, z: -0.01648799, w: 0.9983285}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_R_Index_Jnt_04
+      parentName: Will_R_Index_Jnt_03
+      position: {x: 0.15192, y: -0.0523, z: 0.0159454}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_R_Middle_Jnt_01
+      parentName: Will_R_Handcup_Jnt_01
+      position: {x: 0.11026, y: 0.04361, z: 0.036907}
+      rotation: {x: -0.011351118, y: -0.04343963, z: 0.1453153, w: 0.9883661}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_R_Middle_Jnt_02
+      parentName: Will_R_Middle_Jnt_01
+      position: {x: 0.15798, y: -0.05869, z: -0.005204}
+      rotation: {x: 0.0034242808, y: 0.010732542, z: -0.017087903, w: 0.99979055}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_R_Middle_Jnt_03
+      parentName: Will_R_Middle_Jnt_02
+      position: {x: 0.10555, y: -0.02737, z: 0.003961}
+      rotation: {x: -0.005972213, y: -0.009978857, z: 0.09019155, w: 0.9958566}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_R_Middle_Jnt_014
+      parentName: Will_R_Middle_Jnt_03
+      position: {x: 0.16167, y: -0.09006, z: 0.000741}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Will_R_Ring_Jnt_01
+      parentName: Will_R_Handcup_Jnt_01
+      position: {x: 0.07597, y: -0.056, z: -0.078111}
+      rotation: {x: -0.0007375081, y: -0.0041562724, z: 0.010508431, w: 0.9999359}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Will_R_Ring_Jnt_02
+      parentName: Will_R_Ring_Jnt_01
+      position: {x: 0.16259, y: -0.0152, z: 0.005399}
+      rotation: {x: -0.0050890464, y: -0.00004668627, z: 0.1531237, w: 0.988194}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Will_R_Ring_Jnt_03
+      parentName: Will_R_Ring_Jnt_02
+      position: {x: 0.11977, y: -0.06073, z: 0.003962}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Will_R_Ring_Jnt_04
+      parentName: Will_R_Ring_Jnt_03
+      position: {x: 0.12642, y: -0.06246, z: 0.013021}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Will_R_Little_Jnt_01
+      parentName: Will_R_Handcup_Jnt_01
+      position: {x: 0.04096, y: -0.0909, z: -0.178901}
+      rotation: {x: -0.0028632935, y: -0.061396047, z: 0.07700033, w: 0.99513483}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_R_Little_Jnt_02
+      parentName: Will_R_Little_Jnt_01
+      position: {x: 0.13282, y: -0.02637, z: -0.016087}
+      rotation: {x: 0.005964135, y: 0.04005244, z: -0.016411943, w: 0.999045}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Will_R_Little_Jnt_03
+      parentName: Will_R_Little_Jnt_02
+      position: {x: 0.10935, y: -0.01466, z: 0.003961}
+      rotation: {x: -0.0014239438, y: 0.023129158, z: 0.124914534, w: 0.99189687}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Will_R_Little_Jnt_04
+      parentName: Will_R_Little_Jnt_03
+      position: {x: 0.12772, y: -0.06246, z: 0.013021}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Will_R_Hip_Jnt_01
+      parentName: Will_Root_Jnt_01
+      position: {x: 0.143844, y: -0.117053576, z: 0.1077211}
+      rotation: {x: 0.6828813, y: 0.3158358, z: 0.45237386, w: 0.4788307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Will_R_Little_Jnt_02
+      parentName: Will_R_Hip_Jnt_01
+      position: {x: -0.20548914, y: -0.00043199354, z: 0.21323384}
+      rotation: {x: -0.1375165, y: 0.21152267, z: -0.23978576, w: 0.9374701}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1}
+    - name: Will_R_Neck_Jnt_01
+      parentName: Will_R_Little_Jnt_02
+      position: {x: -0.6573421, y: -0.085232906, z: 0.043207772}
+      rotation: {x: 0.04779262, y: -0.15135764, z: 0.2589446, w: 0.9527615}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Will_R_Neck_Jnt_02
+      parentName: Will_R_Neck_Jnt_01
+      position: {x: -0.23974489, y: 0.062108777, z: 0.09274314}
+      rotation: {x: 0.017556503, y: 0.17947926, z: -0.115212396, w: 0.97683424}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: Will_R_Heel_Jnt_01
+      parentName: Will_R_Neck_Jnt_02
+      position: {x: -0.7573264, y: 0.0028449611, z: -0.035585716}
+      rotation: {x: 0.00029512963, y: -0.03181112, z: -0.50031984, w: 0.86525613}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: Will_R_Foot_Jnt_01
+      parentName: Will_R_Heel_Jnt_01
+      position: {x: -0.3992405, y: -0.00003701477, z: 0.0067855353}
+      rotation: {x: -0.023634564, y: -0.087642595, z: -0.3305904, w: 0.9393989}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000002}
+    - name: Will_R_Foot_Jnt_02
+      parentName: Will_R_Foot_Jnt_01
+      position: {x: -0.42219317, y: 0.0021917974, z: 0.16919908}
+      rotation: {x: 0.02132706, y: -0.63608944, z: 0.025846586, w: 0.7708873}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: Will_L_Hip_Jnt_01
+      parentName: Will_Root_Jnt_01
+      position: {x: -0.14384396, y: -0.1170533, z: 0.107720904}
+      rotation: {x: -0.16596752, y: -0.2884253, z: 0.47032452, w: 0.8173497}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Will_L_Little_Jnt_02
+      parentName: Will_L_Hip_Jnt_01
+      position: {x: -0.29613256, y: -8.198629e-17, z: -4.5681675e-17}
+      rotation: {x: 0.8176056, y: 0.32863396, z: 0.08227593, w: 0.46556568}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Will_L_Neck_Jnt_01
+      parentName: Will_L_Little_Jnt_02
+      position: {x: -0.6636935, y: -0.04946091, z: -0.014611672}
+      rotation: {x: -0.90273446, y: -0.276047, z: -0.039416537, w: 0.3275897}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Will_L_Neck_Jnt_02
+      parentName: Will_L_Neck_Jnt_01
+      position: {x: -0.26311836, y: -0.044267807, z: 0.019866267}
+      rotation: {x: 0.36725286, y: 0.09010896, z: -0.1624959, w: -0.911373}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: Will_L_Heel_Jnt_01
+      parentName: Will_L_Neck_Jnt_02
+      position: {x: -0.75816804, y: -2.7302157e-17, z: 2.4671734e-17}
+      rotation: {x: -0.87068135, y: -0.48283756, z: -0.029921861, w: 0.08880683}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: Will_L_Foot_Jnt_01
+      parentName: Will_L_Heel_Jnt_01
+      position: {x: -0.39929864, y: -6.051721e-17, z: -1.3723074e-17}
+      rotation: {x: -0.022685826, y: -0.08743486, z: -0.31412378, w: 0.94507504}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Will_L_Foot_Jnt_02
+      parentName: Will_L_Foot_Jnt_01
+      position: {x: -0.45484066, y: 1.2194679e-16, z: -8.837055e-17}
+      rotation: {x: 0.021327056, y: -0.6360895, z: 0.025846612, w: 0.7708873}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5

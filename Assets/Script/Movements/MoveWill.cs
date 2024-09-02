@@ -6,6 +6,7 @@ public class MoveWill : MonoBehaviour
 {
     Rigidbody Rb;
     public Animator animator;
+    public ParticleSystem DirtyFoots;
     private float _movex, _movez;
     [SerializeField] private float _speed = 10f;
     [SerializeField] private float _rotationSpeed = 720f;
@@ -13,6 +14,7 @@ public class MoveWill : MonoBehaviour
     void Start()
     {
         Rb = GetComponent<Rigidbody>();
+        DirtyFoots.Stop();
     }
 
     // Update is called once per frame
@@ -22,6 +24,7 @@ public class MoveWill : MonoBehaviour
         _movez = Input.GetAxis("Vertical");
         animator.SetFloat("Movz", _movez);
         animator.SetFloat("Movx", _movex);
+        DirtyFootsParticules();
     }
 
     private void FixedUpdate()
@@ -51,6 +54,18 @@ public class MoveWill : MonoBehaviour
 
             // Rotar el personaje hacia la rotación objetivo
             Rb.rotation = Quaternion.RotateTowards(Rb.rotation, targetRotation, _rotationSpeed * Time.deltaTime);
+        }
+    }
+
+    private void DirtyFootsParticules()
+    {
+        if (_movez > 0.3 || _movex > 0.3)
+        {
+            DirtyFoots.Play();
+        }
+        else
+        {
+            DirtyFoots.Stop();
         }
     }
 }
