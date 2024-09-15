@@ -10,7 +10,7 @@ namespace Script
         private bool _jump;
        [SerializeField] private LayerMask ground;
        [SerializeField] private Transform tf;
-       [SerializeField] private float force = 3f;
+       [SerializeField] private float force;
       
         void Awake()
         {
@@ -21,9 +21,9 @@ namespace Script
         private void FixedUpdate()
         {
 
-            _jump = Physics.Raycast(tf.position, Vector2.down, 3f, ground);
+           // _jump = Physics.Raycast(tf.position, Vector2.down, 1f, ground);
             // condición para que no haga doble salto
-            if (Input.GetKeyDown(KeyCode.Space) && _jump)
+            if (Input.GetKeyDown(KeyCode.Space) )
             {
                 _rb.AddForce(Vector3.up * force, ForceMode.Impulse);
 

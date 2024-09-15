@@ -9,12 +9,12 @@ namespace Script
 {
     public class Move : MonoBehaviour
     {
-        [SerializeField] private float jumpForce = 10f;
+       [SerializeField] private float jumpForce = 10f;
         [SerializeField] public float timer;
         private float _incrementTime = 40f,_speedIncrement = 5f;
-        [SerializeField] private LayerMask ground;
-        [SerializeField] private Transform tf;
-      //  [SerializeField] private Animator anim;
+       [SerializeField] private LayerMask ground;
+       [SerializeField] private Transform tf;
+       //[SerializeField] private Animator anim;
 
 
         private LaneRunner _runner;
@@ -41,9 +41,9 @@ namespace Script
             if (Input.GetKeyDown(KeyCode.LeftArrow)) _runner.lane--;
             if(Input.GetKeyDown(KeyCode.RightArrow)) _runner.lane++;
             
-            _jump = Physics.Raycast(tf.position, Vector2.down, 2f, ground);
+          _jump = Physics.Raycast(tf.position, Vector2.down, 1f, ground);
 
-            if(Input.GetKeyDown(KeyCode.Space) && _jump) _rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+          if(Input.GetKeyDown(KeyCode.Space) && _jump) _rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
 
