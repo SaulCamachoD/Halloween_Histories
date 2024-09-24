@@ -614,6 +614,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6745215687106674170, guid: eab531f010fc06148a4f1459c4082022, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 2783621454244953257, guid: fb366c4a723b74241ac25a85bab19c20, type: 3}
     - target: {fileID: 7025574564429949157, guid: eab531f010fc06148a4f1459c4082022, type: 3}
       propertyPath: m_Name
       value: EA_Prop_Container_Basket_03b_PRE
