@@ -8,7 +8,7 @@ namespace Script
  
         void Update()
         {
-            transform.position = player.transform.position + new Vector3(0,5.30000019f,-9.55000019f);
+            transform.position = player.transform.position + new Vector3(0,8.77499962f,-12.8900003f);
         
         }
     }
