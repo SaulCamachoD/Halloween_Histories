@@ -5413,6 +5413,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: e1591467ad87b93479992baa1f5ea6c6, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5517,6 +5521,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5633,6 +5641,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5744,6 +5756,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 2cfe126efbe097e42878a8bfa61d64db, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5844,6 +5860,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5950,6 +5970,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6016,6 +6040,10 @@ PrefabInstance:
     - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_Name
       value: Mummy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 1730670060870576119, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_LocalScale.x
@@ -6314,6 +6342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mummy
       objectReference: {fileID: 0}
+    - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     - target: {fileID: 1730670060870576119, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: 57.4
@@ -6604,6 +6636,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: b552a599835a9854a8148b67275ce0f5, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6705,6 +6741,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6805,6 +6845,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6911,6 +6955,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6981,6 +7029,10 @@ PrefabInstance:
     - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 3562666826347361462, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7098,6 +7150,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7202,6 +7258,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7314,6 +7374,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7415,6 +7479,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 413c08f53c3c40d4b85de6526690cc94, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7471,6 +7539,10 @@ PrefabInstance:
     - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_Name
       value: Mummy (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 1730670060870576119, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_LocalScale.x
@@ -7813,6 +7885,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 853fbebf29100fc4fbfe89f33ace215e, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7914,6 +7990,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 74e1a940bf4620545b423cd029b7540b, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8014,6 +8094,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 853fbebf29100fc4fbfe89f33ace215e, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 853fbebf29100fc4fbfe89f33ace215e, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8120,6 +8204,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bff9600841563d345834ef7517c00691, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8190,6 +8278,10 @@ PrefabInstance:
     - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 3562666826347361462, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8307,6 +8399,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: e05295fcfe595dd49a4f3858b4a79ffd, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     - target: {fileID: 3140056802862676925, guid: e05295fcfe595dd49a4f3858b4a79ffd, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -8381,6 +8477,10 @@ PrefabInstance:
     - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 516360633404769957, guid: f89d4309643304245acee0332f548c2c, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 3562666826347361462, guid: f89d4309643304245acee0332f548c2c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8502,6 +8602,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: ce3f7dcd6f2538c4183c76f1cf6d267c, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8568,6 +8672,10 @@ PrefabInstance:
     - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_Name
       value: Mummy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 1730670060870576119, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8859,6 +8967,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: e05295fcfe595dd49a4f3858b4a79ffd, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     - target: {fileID: 3140056802862676925, guid: e05295fcfe595dd49a4f3858b4a79ffd, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -8974,6 +9086,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: b6d8b4a0ea9e4a841969eececd42c07a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9074,6 +9190,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9176,6 +9296,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 413c08f53c3c40d4b85de6526690cc94, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9276,6 +9400,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9378,6 +9506,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 7c7b7a2c2b68454418f4823b6d48dabb, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9478,6 +9610,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5b928575b2dce3949b8b1765d39f4a5a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9580,6 +9716,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 25668c26c3a9a1648a788afe3d8897ea, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9636,6 +9776,10 @@ PrefabInstance:
     - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_Name
       value: Mummy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1391405493509455181, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     - target: {fileID: 1730670060870576119, guid: 84611ef2afb630649b2fff897f1949ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9958,6 +10102,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5bf0500fe916c1743a4ffca7adf49448, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10058,6 +10206,10 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: b6d8b4a0ea9e4a841969eececd42c07a, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: b6d8b4a0ea9e4a841969eececd42c07a, type: 3}
+      propertyPath: m_TagString
+      value: Obstaculo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
