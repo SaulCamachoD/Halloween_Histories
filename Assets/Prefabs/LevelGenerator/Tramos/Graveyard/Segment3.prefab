@@ -22209,11 +22209,11 @@ MonoBehaviour:
     - {fileID: 5353562942760542938}
     _isRoot: 0
   bounds:
-    center: {x: 100, y: -19.736053, z: 251.6}
-    extents: {x: 100, y: 23.35395, z: 251.6}
-    max: {x: 200, y: 3.617899, z: 503.2}
-    min: {x: 0, y: -43.090004, z: 0}
-    size: {x: 200, y: 46.7079, z: 503.2}
+    center: {x: 100, y: -5.1011276, z: 175.8}
+    extents: {x: 100, y: 20.578876, z: 175.8}
+    max: {x: 200, y: 15.477749, z: 351.6}
+    min: {x: 0, y: -25.680004, z: 0}
+    size: {x: 200, y: 41.157753, z: 351.6}
   builders: []
   unpacked: 0
   alwaysDraw: 0
