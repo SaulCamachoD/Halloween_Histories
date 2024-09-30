@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ChangeScene : MonoBehaviour
+public class NewScene : MonoBehaviour
 {
-    public void Change()
+    public void ChangeScene()
     {
         SceneManager.LoadScene("Graveyard");
     }
