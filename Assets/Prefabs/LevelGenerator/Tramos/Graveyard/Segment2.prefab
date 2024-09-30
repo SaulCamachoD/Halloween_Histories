@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5158060332976701093}
   - component: {fileID: 8050534260322817401}
   m_Layer: 3
-  m_Name: Graveyard
+  m_Name: Segment2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

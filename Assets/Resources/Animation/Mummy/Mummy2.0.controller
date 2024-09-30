@@ -42,7 +42,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: efd20cd991c37c9488f9e4daa167f39b, type: 2}
+  m_Motion: {fileID: 7400000, guid: fcdfa0f487e2cc74ca211725ad4adb0b, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -54,7 +54,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mummy
+  m_Name: Mummy2.0
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
