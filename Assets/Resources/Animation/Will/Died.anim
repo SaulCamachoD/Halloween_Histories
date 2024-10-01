@@ -44,7 +44,7 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: material.Vector1_7C536670
     path: 
-    classID: 23
+    classID: 137
     script: {fileID: 0}
     flags: 0
   m_PPtrCurves: []
@@ -59,7 +59,7 @@ AnimationClip:
       path: 0
       attribute: 2177637816
       script: {fileID: 0}
-      typeID: 23
+      typeID: 137
       customType: 22
       isPPtrCurve: 0
       isIntCurve: 0
@@ -113,7 +113,7 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: material.Vector1_7C536670
     path: 
-    classID: 23
+    classID: 137
     script: {fileID: 0}
     flags: 0
   m_EulerEditorCurves: []
